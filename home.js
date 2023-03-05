@@ -5,6 +5,9 @@ const home = () => {
   return (
     <View>
       <Text>home</Text>
+      <Text>home</Text>
+      <Text>home</Text>
+      <Text>home</Text>
     </View>
   );
 };
