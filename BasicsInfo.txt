@@ -4,17 +4,23 @@
 4. Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
 5. Node.js uses JavaScript on the server
 6. Node.js uses asynchronous programming!
+7. Node.js is async
 
 Q. What Can Node.js Do?
-
 1. Node.js can generate dynamic page content
 2. Node.js can create, open, read, write, delete, and close files on the server
 3. Node.js can collect form data
 4. Node.js can add, delete, modify data in your database
 
 Q What is a Node.js File?
-
 1. Node.js files contain tasks that will be executed on certain events
 2. A typical event is someone trying to access a port on the server
 3. Node.js files must be initiated on the server before having any effect
 4. Node.js files have extension ".js"
+
+
+Q Interview questions
+1. What is the difference between a Node.js file and a JavaScript file?
+2. What is Status Code(404,500,200,...) using api for any request(get,post,...) 
+3.What is Buffer
+Ans: It means a temporary memory location.When we performs any operation on file system then Nodejs wants to some space of memory for performing any operation this is called as buffer.

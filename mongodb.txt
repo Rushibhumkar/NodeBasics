@@ -1,0 +1,6 @@
+commands are used in the terminal of mongodb compass
+
+create new database and insert one collection in there 
+for inserting data in the database use following commands
+:use <name of database>
+:db.<collection name>.insertOne({name:'rushi',contact:7972755589}) note:id will be automatically generated
